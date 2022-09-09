@@ -4,7 +4,7 @@
  * main - print the size of various types
  *
  * Description: using the printf function
- * this program prints the size of various types on the computer it is complied and run on
+ * this program prints "the size of various types on the computer it is complied and run on
  * Return: 0
  */
 int main(void)
