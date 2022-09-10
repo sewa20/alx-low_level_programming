@@ -4,8 +4,8 @@
  * main - print alphabet in lower case
  *
  * Description: using the main function
- * this program prints "alphabet in lower case,
- * Return 0
+ * this program prints "alphabet in lower case
+ * Return: 0
  */
 int main(void)
 {
