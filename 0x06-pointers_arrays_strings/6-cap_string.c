@@ -5,7 +5,6 @@
 * @s: string
 * Return: returns length as integer;
 */
-
 int _strlen(char *s)
 {
 int len = 0;
@@ -19,7 +18,6 @@ return (len);
 * @str: string to capitalize
 * Return: returns the capitalized string
 */
-
 char *cap_string(char *str)
 {
 int index = 0;
